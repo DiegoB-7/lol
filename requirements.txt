@@ -1,5 +1,9 @@
+altgraph==0.17.3
 packaging==22.0
 Pillow==9.3.0
 pony==0.7.16
+pyinstaller==5.7.0
+pyinstaller-hooks-contrib==2022.14
 PyMySQL==1.0.2
 pytesseract==0.3.10
+python-decouple==3.6
