@@ -1,0 +1,5 @@
+packaging==22.0
+Pillow==9.3.0
+pony==0.7.16
+PyMySQL==1.0.2
+pytesseract==0.3.10
